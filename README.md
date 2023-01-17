@@ -2,15 +2,13 @@
 
 </br>
 <p align="center" display="inline-block">
- :hammer: skill  
-</p>
-<p align="center" display="inline-block">
+ <Strong>⚒️Skills⚒️</Strong><br>
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/R-FCC624.svg?&style=flat-square&logo=Linux&logoColor=black">
+ <img src="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=black">
+ <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=black"><br>
 </p>
 </br>
-
-<!--  
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=na-r0)](https://github.com/na-r0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na-r0&layout=compact)](https://github.com/na-r0/github-readme-stats) -->
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
