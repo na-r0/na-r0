@@ -4,8 +4,6 @@
 <p align="center" display="inline-block">
  :hammer: skill  
 </p>
-</br> 
-</br>
 <p align="center" display="inline-block">
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat-square&logo=Python&logoColor=white"/>
 </p>
